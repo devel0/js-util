@@ -1,0 +1,20 @@
+{
+  "name": "js-util",
+  "authors": [
+    "Lorenzo Delana <lorenzo.delana@gmail.com>"
+  ],
+  "description": "searchathing javascript utilities",
+  "main": "src/js-util.js",
+  "keywords": [
+    "util"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/devel0/js-util",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
